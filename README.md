@@ -1,2 +1,2 @@
-# Python-game-Tic-Tac-Toe
-Game using Python called Tic Tac Toe...
+# Tic-tac-toe
+Game using Python
