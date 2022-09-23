@@ -1,0 +1,6 @@
+print("hello world")
+<<<<<<< HEAD
+print("hello rohan")
+=======
+print("hello rutik")
+>>>>>>> dcfd066ff1acc18862b89022fedc6b99936b7461
